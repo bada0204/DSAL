@@ -15,3 +15,4 @@
 | 58        | Length of Last Word                 | https://leetcode.com/problems/length-of-last-word/                 |
 | 66        | Plus One                            | https://leetcode.com/problems/plus-one/                            |
 | 67        | Add Binary                          | https://leetcode.com/problems/add-binary/                          |
+| 69        | Sqrt(x)                             | https://leetcode.com/problems/sqrtx/                        |

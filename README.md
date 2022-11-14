@@ -17,3 +17,8 @@
 | 67        | Add Binary                          | https://leetcode.com/problems/add-binary/                          |
 | 69        | Sqrt(x)                             | https://leetcode.com/problems/sqrtx/                               |
 | 70        | Climbing Stairs                     | https://leetcode.com/problems/climbing-stairs/                     |
+
+### Medium problem
+| # Problem | Description                         | Leetcode Link                                                      |
+|-----------|-------------------------------------|--------------------------------------------------------------------|
+| 151       | Reverse Words in a String           | https://leetcode.com/problems/reverse-words-in-a-string/           |

@@ -27,6 +27,7 @@
 | 110       | Balanced Binary Tree                       | https://leetcode.com/problems/balanced-binary-tree/                       |
 | 111       | Minimum Depth of Binary Tree               | https://leetcode.com/problems/minimum-depth-of-binary-tree/               |
 | 112       | Path Sum                                   | https://leetcode.com/problems/path-sum/                                   |
+| 118       | Pascal's Triangle                          | https://leetcode.com/problems/pascals-triangle/                           |
 
 ### Medium problem
 | # Problem | Description                                    | Leetcode Link                                                                 |
@@ -39,4 +40,5 @@
 | 11        | Container With Most Water                      | https://leetcode.com/problems/container-with-most-water/                      |
 | 12        | Integer to Roman                               | https://leetcode.com/problems/integer-to-roman/                               |
 | 15        | Three Sum                                      | https://leetcode.com/problems/3sum/                                           |
+| 16        | Three Sum Closest                              | https://leetcode.com/problems/3sum-closest/                                   |
 | 151       | Reverse Words in a String                      | https://leetcode.com/problems/reverse-words-in-a-string/                      |

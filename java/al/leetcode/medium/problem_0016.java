@@ -14,7 +14,7 @@
  * Explanation: The sum that is closest to the target is 0. (0 + 0 + 0 = 0).
  */
 
-package al.leetcode.easy;
+package al.leetcode.medium;
 
 public class problem_0016 {
 

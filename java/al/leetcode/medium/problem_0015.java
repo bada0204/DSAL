@@ -13,7 +13,7 @@
  * Notice that the order of the output and the order of the triplets does not matter.
  */
 
-package al.leetcode.easy;
+package al.leetcode.medium;
 
 import ds.TreeNode;
 

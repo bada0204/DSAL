@@ -29,6 +29,7 @@
 | 112       | Path Sum                                   | https://leetcode.com/problems/path-sum/                                   |
 | 118       | Pascal's Triangle                          | https://leetcode.com/problems/pascals-triangle/                           |
 | 119       | Pascal's Triangle II                       | https://leetcode.com/problems/pascals-triangle-ii/                        |
+| 121       | Best Time to Buy and Sell Stock            | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/            |
 
 ### Medium problem
 | # Problem | Description                                    | Leetcode Link                                                                 |
@@ -43,4 +44,5 @@
 | 15        | Three Sum                                      | https://leetcode.com/problems/3sum/                                           |
 | 16        | Three Sum Closest                              | https://leetcode.com/problems/3sum-closest/                                   |
 | 17        | Letter Combinations of a Phone Number          | https://leetcode.com/problems/letter-combinations-of-a-phone-number/          |
+| 18        | Four Sum									     | https://leetcode.com/problems/4sum/									         |
 | 151       | Reverse Words in a String                      | https://leetcode.com/problems/reverse-words-in-a-string/                      |

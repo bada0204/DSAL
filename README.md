@@ -30,6 +30,7 @@
 | 118       | Pascal's Triangle                          | https://leetcode.com/problems/pascals-triangle/                           |
 | 119       | Pascal's Triangle II                       | https://leetcode.com/problems/pascals-triangle-ii/                        |
 | 121       | Best Time to Buy and Sell Stock            | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/            |
+| 125       | Valid Palindrome							 | https://leetcode.com/problems/valid-palindrome/							 |
 
 ### Medium problem
 | # Problem | Description                                    | Leetcode Link                                                                 |
@@ -45,4 +46,5 @@
 | 16        | Three Sum Closest                              | https://leetcode.com/problems/3sum-closest/                                   |
 | 17        | Letter Combinations of a Phone Number          | https://leetcode.com/problems/letter-combinations-of-a-phone-number/          |
 | 18        | Four Sum									     | https://leetcode.com/problems/4sum/									         |
+| 19        | Remove Nth Node From End of List				 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				 |
 | 151       | Reverse Words in a String                      | https://leetcode.com/problems/reverse-words-in-a-string/                      |

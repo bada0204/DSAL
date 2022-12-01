@@ -18,10 +18,15 @@
 
 package al.leetcode.medium;
 
+import ds.ListNode;
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class problem_0019 {
 
 	public ListNode solution_1(ListNode head, int n) {
-        ListNode result = new ListNode();
+        ListNode result = new ListNode(0);
         ListNode current = result;
         Map<Integer, ListNode> listNodeMap = new HashMap<>();
         result.setNext(head);
@@ -31,12 +36,12 @@ public class problem_0019 {
             current = current.getNext();
             length++;
         }
-        listNodeMap.get(length - n - 1).getNext() = listNodeMap.getOrDefault(length - n + 1, null);
+        listNodeMap.get(length - n - 1).setNext(listNodeMap.getOrDefault(length - n + 1, null));
         return result.getNext();
     }
 
     public ListNode solution_2(ListNode head, int n) {
-        ListNode result = new ListNode();
+        ListNode result = new ListNode(0);
         result.setNext(head);
         ListNode fast = result;
         ListNode slow = result;
@@ -44,7 +49,7 @@ public class problem_0019 {
             fast = fast.getNext();
             n--;
         }
-        while (fast.next != null) {
+        while (fast.getNext() != null) {
             fast = fast.getNext();
             slow = slow.getNext();
         }

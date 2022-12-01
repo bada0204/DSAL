@@ -16,6 +16,8 @@
 
 package al.leetcode.medium;
 
+import java.util.Arrays;
+
 public class problem_0016 {
 
 	public int solution(int[] nums, int target) {

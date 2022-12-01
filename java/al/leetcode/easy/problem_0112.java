@@ -25,7 +25,7 @@ package al.leetcode.easy;
 
 import ds.TreeNode;
 
-public class Solution {
+public class problem_0112 {
 
     public boolean solution(TreeNode root, int targetSum) {
         if (root == null) {

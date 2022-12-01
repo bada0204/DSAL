@@ -17,6 +17,9 @@
 
 package al.leetcode.easy;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class problem_0119 {
 
 	public List<Integer> solution(int rowIndex) {

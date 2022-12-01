@@ -17,6 +17,9 @@
 
 package al.leetcode.medium;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class problem_0017 {
 
 	String[] digitAndLetter = new String[] {"", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};

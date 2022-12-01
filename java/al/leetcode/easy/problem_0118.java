@@ -9,6 +9,10 @@
 
 package al.leetcode.easy;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class problem_0118 {
 
 	public List<List<Integer>> solution(int numRows) {

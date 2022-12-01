@@ -17,8 +17,9 @@ package al.leetcode.medium;
 
 import ds.TreeNode;
 
-public class Solution {
+import java.util.*;
 
+public class problem_0015 {
     public List<List<Integer>> solution(int[] nums) {
         List<List<Integer>> results = new ArrayList<>();
         Arrays.sort(nums);

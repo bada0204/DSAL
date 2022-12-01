@@ -64,5 +64,6 @@ public class problem_0020 {
             }
         }
         return stack.isEmpty();
+    }
 
 }

@@ -32,6 +32,7 @@
 | 121       | Best Time to Buy and Sell Stock            | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/            |
 | 125       | Valid Palindrome							 | https://leetcode.com/problems/valid-palindrome/							 |
 | 136       | Single Number 							 | https://leetcode.com/problems/single-number/             				 |
+| 141       | Linked List Cycle 					     | https://leetcode.com/problems/linked-list-cycle/            				 |
 
 ### Medium problem
 | # Problem | Description                                    | Leetcode Link                                                                 |
@@ -48,5 +49,6 @@
 | 17        | Letter Combinations of a Phone Number          | https://leetcode.com/problems/letter-combinations-of-a-phone-number/          |
 | 18        | Four Sum									     | https://leetcode.com/problems/4sum/									         |
 | 19        | Remove Nth Node From End of List				 | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				 |
-| 22        | Generate Parentheses                           | https://leetcode.com/problems/generate-parentheses/                           |    
+| 22        | Generate Parentheses                           | https://leetcode.com/problems/generate-parentheses/                           |
+| 24        | Swap Nodes in Pairs 							 | https://leetcode.com/problems/swap-nodes-in-pairs/             				 |    
 | 151       | Reverse Words in a String                      | https://leetcode.com/problems/reverse-words-in-a-string/                      |

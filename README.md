@@ -55,3 +55,8 @@
 | 24        | Swap Nodes in Pairs 							     | https://leetcode.com/problems/swap-nodes-in-pairs/             				     |
 | 28        | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ |    
 | 151       | Reverse Words in a String                          | https://leetcode.com/problems/reverse-words-in-a-string/                          |
+
+### Hard problem
+| # Problem | Description                 | Leetcode Link                                              |
+|-----------|-----------------------------|------------------------------------------------------------|
+| 4         | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |

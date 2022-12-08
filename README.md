@@ -35,28 +35,39 @@
 | 141       | Linked List Cycle 					     | https://leetcode.com/problems/linked-list-cycle/            				 |
 | 144       | Binary Tree Preorder Traversal 			 | https://leetcode.com/problems/binary-tree-preorder-traversal/             |
 | 145       | Binary Tree Postorder Traversal 			 | https://leetcode.com/problems/binary-tree-postorder-traversal/            |
+| 160       | Intersection of Two Linked Lists 			 | https://leetcode.com/problems/intersection-of-two-linked-lists/           |
+| 168       | Excel Sheet Column Title 			         | https://leetcode.com/problems/excel-sheet-column-title/                   |
+| 169       | Majority Element 			                 | https://leetcode.com/problems/majority-element/                           |
+| 171       | Excel Sheet Column Number 			     | https://leetcode.com/problems/excel-sheet-column-number/                  |
 
 ### Medium problem
-| # Problem | Description                                        | Leetcode Link                                                                     |
-|-----------|----------------------------------------------------|-----------------------------------------------------------------------------------|
-| 2         | Add Two Numbers                                    | https://leetcode.com/problems/add-two-numbers/                                    |
-| 3         | Longest Substring Without Repeating Characters     | https://leetcode.com/problems/longest-substring-without-repeating-characters/     |
-| 6         | Zigzag Conversion                                  | https://leetcode.com/problems/zigzag-conversion/                                  |
-| 7         | Reverse Integer                                    | https://leetcode.com/problems/reverse-integer/                                    |
-| 8         | String to Integer (atoi)                           | https://leetcode.com/problems/string-to-integer-atoi/                             |
-| 11        | Container With Most Water                          | https://leetcode.com/problems/container-with-most-water/                          |
-| 12        | Integer to Roman                                   | https://leetcode.com/problems/integer-to-roman/                                   |
-| 15        | Three Sum                                          | https://leetcode.com/problems/3sum/                                               |
-| 16        | Three Sum Closest                                  | https://leetcode.com/problems/3sum-closest/                                       |
-| 17        | Letter Combinations of a Phone Number              | https://leetcode.com/problems/letter-combinations-of-a-phone-number/              |
-| 18        | Four Sum									         | https://leetcode.com/problems/4sum/									             |
-| 19        | Remove Nth Node From End of List				     | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				     |
-| 22        | Generate Parentheses                               | https://leetcode.com/problems/generate-parentheses/                               |
-| 24        | Swap Nodes in Pairs 							     | https://leetcode.com/problems/swap-nodes-in-pairs/             				     |
-| 28        | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ |    
-| 151       | Reverse Words in a String                          | https://leetcode.com/problems/reverse-words-in-a-string/                          |
+| # Problem | Description                                             | Leetcode Link                                                                          |
+|-----------|---------------------------------------------------------|----------------------------------------------------------------------------------------|
+| 2         | Add Two Numbers                                         | https://leetcode.com/problems/add-two-numbers/                                         |
+| 3         | Longest Substring Without Repeating Characters          | https://leetcode.com/problems/longest-substring-without-repeating-characters/          |
+| 6         | Zigzag Conversion                                       | https://leetcode.com/problems/zigzag-conversion/                                       |
+| 7         | Reverse Integer                                         | https://leetcode.com/problems/reverse-integer/                                         |
+| 8         | String to Integer (atoi)                                | https://leetcode.com/problems/string-to-integer-atoi/                                  |
+| 11        | Container With Most Water                               | https://leetcode.com/problems/container-with-most-water/                               |
+| 12        | Integer to Roman                                        | https://leetcode.com/problems/integer-to-roman/                                        |
+| 15        | Three Sum                                               | https://leetcode.com/problems/3sum/                                                    |
+| 16        | Three Sum Closest                                       | https://leetcode.com/problems/3sum-closest/                                            |
+| 17        | Letter Combinations of a Phone Number                   | https://leetcode.com/problems/letter-combinations-of-a-phone-number/                   |
+| 18        | Four Sum									              | https://leetcode.com/problems/4sum/									                   |
+| 19        | Remove Nth Node From End of List				          | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				           |
+| 22        | Generate Parentheses                                    | https://leetcode.com/problems/generate-parentheses/                                    |
+| 24        | Swap Nodes in Pairs 							          | https://leetcode.com/problems/swap-nodes-in-pairs/             				           |
+| 28        | Find the Index of the First Occurrence in a String      | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/      |   
+| 29*       | Divide Two Integers                                     | https://leetcode.com/problems/divide-two-integers/                                     |   
+| 31        | Next Permutation                                        | https://leetcode.com/problems/next-permutation/                                        |   
+| 33        | Search in Rotated Sorted Array                          | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |   
+| 34        | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |    
+| 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem
 | # Problem | Description                 | Leetcode Link                                              |
 |-----------|-----------------------------|------------------------------------------------------------|
 | 4         | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+
+(*): still working

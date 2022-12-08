@@ -61,7 +61,9 @@
 | 29*       | Divide Two Integers                                     | https://leetcode.com/problems/divide-two-integers/                                     |   
 | 31        | Next Permutation                                        | https://leetcode.com/problems/next-permutation/                                        |   
 | 33        | Search in Rotated Sorted Array                          | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |   
-| 34        | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |    
+| 34        | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
+| 36        | Valid Sudoku                                            | https://leetcode.com/problems/valid-sudoku/                                            |   
+| 38        | Count and Say                                           | https://leetcode.com/problems/count-and-say/                                           |       
 | 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

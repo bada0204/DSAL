@@ -66,7 +66,7 @@
 | 36        | Valid Sudoku                                          | https://leetcode.com/problems/valid-sudoku/                                            |   
 | 38        | Count and Say                                         | https://leetcode.com/problems/count-and-say/                                           |
 | 39        | Combination Sum                                         | https://leetcode.com/problems/combination-sum/                                         |
-| 40        | Combination Sum II                                           | https://leetcode.com/problems/combination-sum-ii/s                                     |
+| 40        | Combination Sum II                                           | https://leetcode.com/problems/combination-sum-ii/                                     |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

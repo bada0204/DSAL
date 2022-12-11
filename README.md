@@ -43,6 +43,8 @@
 | 181       | Employees Earning More Than Their Managers 			 | https://leetcode.com/problems/employees-earning-more-than-their-managers/ |
 | 182       | Duplicate Emails 			                         | https://leetcode.com/problems/duplicate-emails/                  |
 | 183       | Customers Who Never Order 			                 | https://leetcode.com/problems/customers-who-never-order/                  |
+| 190       | Reverse Bits 			                 | https://leetcode.com/problems/reverse-bits/                 |
+| 191       | Number of 1 Bits 			                 | https://leetcode.com/problems/number-of-1-bits/                  |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -70,6 +72,8 @@
 | 38        | Count and Say                                         | https://leetcode.com/problems/count-and-say/                                           |
 | 39        | Combination Sum                                         | https://leetcode.com/problems/combination-sum/                                         |
 | 40        | Combination Sum II                                           | https://leetcode.com/problems/combination-sum-ii/                                     |
+| 43        | Multiply Strings                                           | https://leetcode.com/problems/multiply-strings/                                     |
+| 45        | Jump Game II                                           | https://leetcode.com/problems/jump-game-ii/                                     |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

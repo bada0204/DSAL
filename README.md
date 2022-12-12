@@ -74,6 +74,8 @@
 | 40        | Combination Sum II                                           | https://leetcode.com/problems/combination-sum-ii/                                     |
 | 43        | Multiply Strings                                           | https://leetcode.com/problems/multiply-strings/                                     |
 | 45        | Jump Game II                                           | https://leetcode.com/problems/jump-game-ii/                                     |
+| 46        | Permutations                                           | https://leetcode.com/problems/permutations/                                     |
+| 47        | Permutations II                                           | https://leetcode.com/problems/permutations-ii/                                     |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

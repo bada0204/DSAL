@@ -47,6 +47,8 @@
 | 191       | Number of 1 Bits 			                 | https://leetcode.com/problems/number-of-1-bits/                  |
 | 196       | Delete Duplicate Emails 			                 | https://leetcode.com/problems/delete-duplicate-emails/                  |
 | 197       | Rising Temperature 			                 | https://leetcode.com/problems/rising-temperature/                  |
+| 202       | Happy Number 			                 | https://leetcode.com/problems/happy-number/                  |
+| 203       | Remove Linked List Elements 			                 | https://leetcode.com/problems/remove-linked-list-elements/                 |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -80,6 +82,9 @@
 | 47        | Permutations II                                           | https://leetcode.com/problems/permutations-ii/                                     |
 | 48        | Rotate Image                                          | https://leetcode.com/problems/rotate-image/                                     |
 | 49        | Group Anagram                                           | https://leetcode.com/problems/group-anagrams/                                     |
+| 50        | Pow(x, n)                                           | https://leetcode.com/problems/powx-n/                                     |
+| 53        | Maximum Subarray                                           | https://leetcode.com/problems/group-anagrams/                                     |
+| 54        | Spiral Matrix                                         | https://leetcode.com/problems/spiral-matrix/                                     |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

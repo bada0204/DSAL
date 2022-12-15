@@ -51,6 +51,8 @@
 | 203       | Remove Linked List Elements 			                 | https://leetcode.com/problems/remove-linked-list-elements/                 |
 | 205       | Isomorphic Strings 			                 | https://leetcode.com/problems/isomorphic-strings/                  |
 | 206       | Reverse Linked List 			                 | https://leetcode.com/problems/reverse-linked-list/                 |
+| 217       | Contains Duplicate 			                 | https://leetcode.com/problems/contains-duplicate/                  |
+| 219       | Contains Duplicate II			                 | https://leetcode.com/problems/contains-duplicate-ii/                 |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -89,6 +91,8 @@
 | 54        | Spiral Matrix                                         | https://leetcode.com/problems/spiral-matrix/                                     |
 | 55        | Jump Game                                         | https://leetcode.com/problems/jump-game/                                     |
 | 56        | Merge Intervals                                         | https://leetcode.com/problems/merge-intervals/                                    |
+| 57        | Insert Interval                                         | https://leetcode.com/problems/insert-interval/                                    |
+| 59        | Spiral Matrix II                                         | https://leetcode.com/problems/spiral-matrix-ii/                                    |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

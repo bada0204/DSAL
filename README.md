@@ -53,6 +53,8 @@
 | 206       | Reverse Linked List 			                 | https://leetcode.com/problems/reverse-linked-list/                 |
 | 217       | Contains Duplicate 			                 | https://leetcode.com/problems/contains-duplicate/                  |
 | 219       | Contains Duplicate II			                 | https://leetcode.com/problems/contains-duplicate-ii/                 |
+| 225       | Implement Stack using Queues 			                 | https://leetcode.com/problems/implement-stack-using-queues/                  |
+| 226       | Invert Binary Tree			                 | https://leetcode.com/problems/invert-binary-tree/                 |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -93,6 +95,9 @@
 | 56        | Merge Intervals                                         | https://leetcode.com/problems/merge-intervals/                                    |
 | 57        | Insert Interval                                         | https://leetcode.com/problems/insert-interval/                                    |
 | 59        | Spiral Matrix II                                         | https://leetcode.com/problems/spiral-matrix-ii/                                    |
+| 61        | Rotate List                                         | https://leetcode.com/problems/rotate-list/                                    |
+| 62        | Unique Paths                                         | https://leetcode.com/problems/unique-paths/                                  |
+| 63        | Unique Paths II                                         | https://leetcode.com/problems/unique-paths-ii/                                  |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

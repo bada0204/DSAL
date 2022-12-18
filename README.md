@@ -55,6 +55,8 @@
 | 219       | Contains Duplicate II			                 | https://leetcode.com/problems/contains-duplicate-ii/                 |
 | 225       | Implement Stack using Queues 			                 | https://leetcode.com/problems/implement-stack-using-queues/                  |
 | 226       | Invert Binary Tree			                 | https://leetcode.com/problems/invert-binary-tree/                 |
+| 228       | Summary Ranges 			                 | https://leetcode.com/problems/summary-ranges/                  |
+| 231       | Power of Two			                 | https://leetcode.com/problems/power-of-two/               |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -98,6 +100,8 @@
 | 61        | Rotate List                                         | https://leetcode.com/problems/rotate-list/                                    |
 | 62        | Unique Paths                                         | https://leetcode.com/problems/unique-paths/                                  |
 | 63        | Unique Paths II                                         | https://leetcode.com/problems/unique-paths-ii/                                  |
+| 64        | Minimum Path Sum                                         | https://leetcode.com/problems/minimum-path-sum/                                  |
+| 71        | Simplify Path                                         | https://leetcode.com/problems/simplify-path/                                 |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 
 ### Hard problem

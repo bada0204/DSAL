@@ -58,6 +58,7 @@
 | 228       | Summary Ranges 			                 | https://leetcode.com/problems/summary-ranges/                  |
 | 231       | Power of Two			                 | https://leetcode.com/problems/power-of-two/               |
 | 290       | Word Pattern			                 | https://leetcode.com/problems/word-pattern/               |
+| 520       | Detect Capital			             | https://leetcode.com/problems/detect-capital/              |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -105,6 +106,9 @@
 | 71        | Simplify Path                                         | https://leetcode.com/problems/simplify-path/                                 |
 | 75        | Sort Colors                                         | https://leetcode.com/problems/sort-colors/                              |
 | 77        | Combinations                                         | https://leetcode.com/problems/combinations/                               |
+| 78        | Subsets                                         | https://leetcode.com/problems/subsets/                               |
+| 79        | Word Search                                         | https://leetcode.com/problems/word-search/                              |
+| 80        | Remove Duplicates from Sorted Array II   | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/  |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 | 2244      | Minimum Rounds to Complete All Tasks                | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/   |
 

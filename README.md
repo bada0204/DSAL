@@ -57,6 +57,7 @@
 | 226       | Invert Binary Tree			                 | https://leetcode.com/problems/invert-binary-tree/                 |
 | 228       | Summary Ranges 			                 | https://leetcode.com/problems/summary-ranges/                  |
 | 231       | Power of Two			                 | https://leetcode.com/problems/power-of-two/               |
+| 290       | Word Pattern			                 | https://leetcode.com/problems/word-pattern/               |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -102,7 +103,10 @@
 | 63        | Unique Paths II                                         | https://leetcode.com/problems/unique-paths-ii/                                  |
 | 64        | Minimum Path Sum                                         | https://leetcode.com/problems/minimum-path-sum/                                  |
 | 71        | Simplify Path                                         | https://leetcode.com/problems/simplify-path/                                 |
+| 75        | Sort Colors                                         | https://leetcode.com/problems/sort-colors/                              |
+| 77        | Combinations                                         | https://leetcode.com/problems/combinations/                               |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
+| 2244      | Minimum Rounds to Complete All Tasks                | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/   |
 
 ### Hard problem
 | # Problem | Description                 | Leetcode Link                                              |

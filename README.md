@@ -59,6 +59,7 @@
 | 231       | Power of Two			                 | https://leetcode.com/problems/power-of-two/               |
 | 290       | Word Pattern			                 | https://leetcode.com/problems/word-pattern/               |
 | 520       | Detect Capital			             | https://leetcode.com/problems/detect-capital/              |
+| 944       | Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/ |
 
 ### Medium problem
 | # Problem | Description                                           | Leetcode Link                                                                          |
@@ -109,7 +110,10 @@
 | 78        | Subsets                                         | https://leetcode.com/problems/subsets/                               |
 | 79        | Word Search                                         | https://leetcode.com/problems/word-search/                              |
 | 80        | Remove Duplicates from Sorted Array II   | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/  |
+| 82        | Remove Duplicates from Sorted List II   | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/  |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
+| 452       | Minimum Number of Arrows to Burst Balloons | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ |
+| 1833      | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/ |
 | 2244      | Minimum Rounds to Complete All Tasks                | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/   |
 
 ### Hard problem

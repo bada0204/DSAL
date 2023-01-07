@@ -57,6 +57,7 @@
 | 226       | Invert Binary Tree			                 | https://leetcode.com/problems/invert-binary-tree/                 |
 | 228       | Summary Ranges 			                 | https://leetcode.com/problems/summary-ranges/                  |
 | 231       | Power of Two			                 | https://leetcode.com/problems/power-of-two/               |
+| 232       | Implement Queue using Stacks  | https://leetcode.com/problems/implement-queue-using-stacks/  |
 | 290       | Word Pattern			                 | https://leetcode.com/problems/word-pattern/               |
 | 520       | Detect Capital			             | https://leetcode.com/problems/detect-capital/              |
 | 944       | Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/ |
@@ -110,7 +111,10 @@
 | 78        | Subsets                                         | https://leetcode.com/problems/subsets/                               |
 | 79        | Word Search                                         | https://leetcode.com/problems/word-search/                              |
 | 80        | Remove Duplicates from Sorted Array II   | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/  |
+| 81        | Search in Rotated Sorted Array II   | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/  |
 | 82        | Remove Duplicates from Sorted List II   | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/  |
+| 86        | Partition List   | https://leetcode.com/problems/partition-list/  |
+| 134       | Gas Station   | https://leetcode.com/problems/gas-station/  |
 | 151       | Reverse Words in a String                             | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 | 452       | Minimum Number of Arrows to Burst Balloons | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ |
 | 1833      | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/ |

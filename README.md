@@ -117,9 +117,13 @@
 | 86        | Partition List                                          | https://leetcode.com/problems/partition-list/                                          |
 | 90        | Subsets II                                              | https://leetcode.com/problems/subsets-ii/                                              |
 | 91        | Decode Ways                                             | https://leetcode.com/problems/decode-ways/                                             |
+| 92        | Reverse Linked List II                                  | https://leetcode.com/problems/reverse-linked-list-ii/                                  |
+| 93        | Restore IP Addresses                                    | https://leetcode.com/problems/restore-ip-addresses/                                    |
+| 95        | Unique Binary Search Trees II                           | https://leetcode.com/problems/unique-binary-search-trees-ii/                           |
 | 134       | Gas Station                                             | https://leetcode.com/problems/gas-station/                                             |
 | 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 | 452       | Minimum Number of Arrows to Burst Balloons              | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/              |
+| 1443      | Minimum Time to Collect All Apples in a Tree            | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/            |
 | 1833      | Maximum Ice Cream Bars                                  | https://leetcode.com/problems/maximum-ice-cream-bars/                                  |
 | 2244      | Minimum Rounds to Complete All Tasks                    | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                    |
 

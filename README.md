@@ -120,10 +120,14 @@
 | 92        | Reverse Linked List II                                  | https://leetcode.com/problems/reverse-linked-list-ii/                                  |
 | 93        | Restore IP Addresses                                    | https://leetcode.com/problems/restore-ip-addresses/                                    |
 | 95        | Unique Binary Search Trees II                           | https://leetcode.com/problems/unique-binary-search-trees-ii/                           |
+| 96        | Unique Binary Search Trees                              | https://leetcode.com/problems/unique-binary-search-trees   /                           |
+| 97        | Interleaving String                                     | https://leetcode.com/problems/interleaving-string/                                     |
+| 98        | Validate Binary Search Tree                             | https://leetcode.com/problems/validate-binary-search-tree/                             |
 | 134       | Gas Station                                             | https://leetcode.com/problems/gas-station/                                             |
 | 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 | 452       | Minimum Number of Arrows to Burst Balloons              | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/              |
 | 1443      | Minimum Time to Collect All Apples in a Tree            | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/            |
+| 1519      | Number of Nodes in the Sub-Tree With the Same Label     | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/     |
 | 1833      | Maximum Ice Cream Bars                                  | https://leetcode.com/problems/maximum-ice-cream-bars/                                  |
 | 2244      | Minimum Rounds to Complete All Tasks                    | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                    |
 

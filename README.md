@@ -123,6 +123,8 @@
 | 96        | Unique Binary Search Trees                              | https://leetcode.com/problems/unique-binary-search-trees   /                           |
 | 97        | Interleaving String                                     | https://leetcode.com/problems/interleaving-string/                                     |
 | 98        | Validate Binary Search Tree                             | https://leetcode.com/problems/validate-binary-search-tree/                             |
+| 102       | Binary Tree Level Order Traversal                       | https://leetcode.com/problems/binary-tree-level-order-traversal/                       |
+| 103       | Binary Tree Zigzag Level Order Traversal                | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/                |
 | 134       | Gas Station                                             | https://leetcode.com/problems/gas-station/                                             |
 | 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
 | 452       | Minimum Number of Arrows to Burst Balloons              | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/              |
@@ -132,10 +134,11 @@
 | 2244      | Minimum Rounds to Complete All Tasks                    | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                    |
 
 ### Hard problem
-| # Problem | Description                 | Leetcode Link                                              |
-|-----------|-----------------------------|------------------------------------------------------------|
-| 4         | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
-| 149       | Max Points on a Line        | https://leetcode.com/problems/max-points-on-a-line/        |
+| # Problem | Description                                     | Leetcode Link                                                                  |
+|-----------|-------------------------------------------------|--------------------------------------------------------------------------------|
+| 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
+| 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
+| 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
 
 
 (*): still working

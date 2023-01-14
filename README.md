@@ -64,74 +64,77 @@
 | 944       | Delete Columns to Make Sorted              | https://leetcode.com/problems/delete-columns-to-make-sorted/              |
 
 ### Medium problem
-| # Problem | Description                                             | Leetcode Link                                                                          |
-|-----------|---------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 2         | Add Two Numbers                                         | https://leetcode.com/problems/add-two-numbers/                                         |
-| 3         | Longest Substring Without Repeating Characters          | https://leetcode.com/problems/longest-substring-without-repeating-characters/          |
-| 6         | Zigzag Conversion                                       | https://leetcode.com/problems/zigzag-conversion/                                       |
-| 7         | Reverse Integer                                         | https://leetcode.com/problems/reverse-integer/                                         |
-| 8         | String to Integer (atoi)                                | https://leetcode.com/problems/string-to-integer-atoi/                                  |
-| 11        | Container With Most Water                               | https://leetcode.com/problems/container-with-most-water/                               |
-| 12        | Integer to Roman                                        | https://leetcode.com/problems/integer-to-roman/                                        |
-| 15        | Three Sum                                               | https://leetcode.com/problems/3sum/                                                    |
-| 16        | Three Sum Closest                                       | https://leetcode.com/problems/3sum-closest/                                            |
-| 17        | Letter Combinations of a Phone Number                   | https://leetcode.com/problems/letter-combinations-of-a-phone-number/                   |
-| 18        | Four Sum									              | https://leetcode.com/problems/4sum/									                   |
-| 19        | Remove Nth Node From End of List				          | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				           |
-| 22        | Generate Parentheses                                    | https://leetcode.com/problems/generate-parentheses/                                    |
-| 24        | Swap Nodes in Pairs 							          | https://leetcode.com/problems/swap-nodes-in-pairs/             				           |
-| 28        | Find the Index of the First Occurrence in a String      | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/      |   
-| 29*       | Divide Two Integers                                     | https://leetcode.com/problems/divide-two-integers/                                     |   
-| 31        | Next Permutation                                        | https://leetcode.com/problems/next-permutation/                                        |   
-| 33        | Search in Rotated Sorted Array                          | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |   
-| 34        | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
-| 36        | Valid Sudoku                                            | https://leetcode.com/problems/valid-sudoku/                                            |   
-| 38        | Count and Say                                           | https://leetcode.com/problems/count-and-say/                                           |
-| 39        | Combination Sum                                         | https://leetcode.com/problems/combination-sum/                                         |
-| 40        | Combination Sum II                                      | https://leetcode.com/problems/combination-sum-ii/                                      |
-| 43        | Multiply Strings                                        | https://leetcode.com/problems/multiply-strings/                                        |
-| 45        | Jump Game II                                            | https://leetcode.com/problems/jump-game-ii/                                            |
-| 46        | Permutations                                            | https://leetcode.com/problems/permutations/                                            |
-| 47        | Permutations II                                         | https://leetcode.com/problems/permutations-ii/                                         |
-| 48        | Rotate Image                                            | https://leetcode.com/problems/rotate-image/                                            |
-| 49        | Group Anagram                                           | https://leetcode.com/problems/group-anagrams/                                          |
-| 50        | Pow(x, n)                                               | https://leetcode.com/problems/powx-n/                                                  |
-| 53        | Maximum Subarray                                        | https://leetcode.com/problems/group-anagrams/                                          |
-| 54        | Spiral Matrix                                           | https://leetcode.com/problems/spiral-matrix/                                           |
-| 55        | Jump Game                                               | https://leetcode.com/problems/jump-game/                                               |
-| 56        | Merge Intervals                                         | https://leetcode.com/problems/merge-intervals/                                         |
-| 57        | Insert Interval                                         | https://leetcode.com/problems/insert-interval/                                         |
-| 59        | Spiral Matrix II                                        | https://leetcode.com/problems/spiral-matrix-ii/                                        |
-| 61        | Rotate List                                             | https://leetcode.com/problems/rotate-list/                                             |
-| 62        | Unique Paths                                            | https://leetcode.com/problems/unique-paths/                                            |
-| 63        | Unique Paths II                                         | https://leetcode.com/problems/unique-paths-ii/                                         |
-| 64        | Minimum Path Sum                                        | https://leetcode.com/problems/minimum-path-sum/                                        |
-| 71        | Simplify Path                                           | https://leetcode.com/problems/simplify-path/                                           |
-| 75        | Sort Colors                                             | https://leetcode.com/problems/sort-colors/                                             |
-| 77        | Combinations                                            | https://leetcode.com/problems/combinations/                                            |
-| 78        | Subsets                                                 | https://leetcode.com/problems/subsets/                                                 |
-| 79        | Word Search                                             | https://leetcode.com/problems/word-search/                                             |
-| 80        | Remove Duplicates from Sorted Array II                  | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/                  |
-| 81        | Search in Rotated Sorted Array II                       | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                       |
-| 82        | Remove Duplicates from Sorted List II                   | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/                   |
-| 86        | Partition List                                          | https://leetcode.com/problems/partition-list/                                          |
-| 90        | Subsets II                                              | https://leetcode.com/problems/subsets-ii/                                              |
-| 91        | Decode Ways                                             | https://leetcode.com/problems/decode-ways/                                             |
-| 92        | Reverse Linked List II                                  | https://leetcode.com/problems/reverse-linked-list-ii/                                  |
-| 93        | Restore IP Addresses                                    | https://leetcode.com/problems/restore-ip-addresses/                                    |
-| 95        | Unique Binary Search Trees II                           | https://leetcode.com/problems/unique-binary-search-trees-ii/                           |
-| 96        | Unique Binary Search Trees                              | https://leetcode.com/problems/unique-binary-search-trees   /                           |
-| 97        | Interleaving String                                     | https://leetcode.com/problems/interleaving-string/                                     |
-| 98        | Validate Binary Search Tree                             | https://leetcode.com/problems/validate-binary-search-tree/                             |
-| 102       | Binary Tree Level Order Traversal                       | https://leetcode.com/problems/binary-tree-level-order-traversal/                       |
-| 103       | Binary Tree Zigzag Level Order Traversal                | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/                |
-| 134       | Gas Station                                             | https://leetcode.com/problems/gas-station/                                             |
-| 151       | Reverse Words in a String                               | https://leetcode.com/problems/reverse-words-in-a-string/                               |
-| 452       | Minimum Number of Arrows to Burst Balloons              | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/              |
-| 1443      | Minimum Time to Collect All Apples in a Tree            | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/            |
-| 1519      | Number of Nodes in the Sub-Tree With the Same Label     | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/     |
-| 1833      | Maximum Ice Cream Bars                                  | https://leetcode.com/problems/maximum-ice-cream-bars/                                  |
-| 2244      | Minimum Rounds to Complete All Tasks                    | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                    |
+| # Problem | Description                                                | Leetcode Link                                                                             |
+|-----------|------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| 2         | Add Two Numbers                                            | https://leetcode.com/problems/add-two-numbers/                                            |
+| 3         | Longest Substring Without Repeating Characters             | https://leetcode.com/problems/longest-substring-without-repeating-characters/             |
+| 6         | Zigzag Conversion                                          | https://leetcode.com/problems/zigzag-conversion/                                          |
+| 7         | Reverse Integer                                            | https://leetcode.com/problems/reverse-integer/                                            |
+| 8         | String to Integer (atoi)                                   | https://leetcode.com/problems/string-to-integer-atoi/                                     |
+| 11        | Container With Most Water                                  | https://leetcode.com/problems/container-with-most-water/                                  |
+| 12        | Integer to Roman                                           | https://leetcode.com/problems/integer-to-roman/                                           |
+| 15        | Three Sum                                                  | https://leetcode.com/problems/3sum/                                                       |
+| 16        | Three Sum Closest                                          | https://leetcode.com/problems/3sum-closest/                                               |
+| 17        | Letter Combinations of a Phone Number                      | https://leetcode.com/problems/letter-combinations-of-a-phone-number/                      |
+| 18        | Four Sum									                 | https://leetcode.com/problems/4sum/									                     |
+| 19        | Remove Nth Node From End of List				             | https://leetcode.com/problems/remove-nth-node-from-end-of-list/				             |
+| 22        | Generate Parentheses                                       | https://leetcode.com/problems/generate-parentheses/                                       |
+| 24        | Swap Nodes in Pairs 							             | https://leetcode.com/problems/swap-nodes-in-pairs/             				             |
+| 28        | Find the Index of the First Occurrence in a String         | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/         |   
+| 29*       | Divide Two Integers                                        | https://leetcode.com/problems/divide-two-integers/                                        |   
+| 31        | Next Permutation                                           | https://leetcode.com/problems/next-permutation/                                           |   
+| 33        | Search in Rotated Sorted Array                             | https://leetcode.com/problems/search-in-rotated-sorted-array/                             |   
+| 34        | Find First and Last Position of Element in Sorted Array    | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/    |
+| 36        | Valid Sudoku                                               | https://leetcode.com/problems/valid-sudoku/                                               |   
+| 38        | Count and Say                                              | https://leetcode.com/problems/count-and-say/                                              |
+| 39        | Combination Sum                                            | https://leetcode.com/problems/combination-sum/                                            |
+| 40        | Combination Sum II                                         | https://leetcode.com/problems/combination-sum-ii/                                         |
+| 43        | Multiply Strings                                           | https://leetcode.com/problems/multiply-strings/                                           |
+| 45        | Jump Game II                                               | https://leetcode.com/problems/jump-game-ii/                                               |
+| 46        | Permutations                                               | https://leetcode.com/problems/permutations/                                               |
+| 47        | Permutations II                                            | https://leetcode.com/problems/permutations-ii/                                            |
+| 48        | Rotate Image                                               | https://leetcode.com/problems/rotate-image/                                               |
+| 49        | Group Anagram                                              | https://leetcode.com/problems/group-anagrams/                                             |
+| 50        | Pow(x, n)                                                  | https://leetcode.com/problems/powx-n/                                                     |
+| 53        | Maximum Subarray                                           | https://leetcode.com/problems/group-anagrams/                                             |
+| 54        | Spiral Matrix                                              | https://leetcode.com/problems/spiral-matrix/                                              |
+| 55        | Jump Game                                                  | https://leetcode.com/problems/jump-game/                                                  |
+| 56        | Merge Intervals                                            | https://leetcode.com/problems/merge-intervals/                                            |
+| 57        | Insert Interval                                            | https://leetcode.com/problems/insert-interval/                                            |
+| 59        | Spiral Matrix II                                           | https://leetcode.com/problems/spiral-matrix-ii/                                           |
+| 61        | Rotate List                                                | https://leetcode.com/problems/rotate-list/                                                |
+| 62        | Unique Paths                                               | https://leetcode.com/problems/unique-paths/                                               |
+| 63        | Unique Paths II                                            | https://leetcode.com/problems/unique-paths-ii/                                            |
+| 64        | Minimum Path Sum                                           | https://leetcode.com/problems/minimum-path-sum/                                           |
+| 71        | Simplify Path                                              | https://leetcode.com/problems/simplify-path/                                              |
+| 75        | Sort Colors                                                | https://leetcode.com/problems/sort-colors/                                                |
+| 77        | Combinations                                               | https://leetcode.com/problems/combinations/                                               |
+| 78        | Subsets                                                    | https://leetcode.com/problems/subsets/                                                    |
+| 79        | Word Search                                                | https://leetcode.com/problems/word-search/                                                |
+| 80        | Remove Duplicates from Sorted Array II                     | https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/                     |
+| 81        | Search in Rotated Sorted Array II                          | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                          |
+| 82        | Remove Duplicates from Sorted List II                      | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/                      |
+| 86        | Partition List                                             | https://leetcode.com/problems/partition-list/                                             |
+| 90        | Subsets II                                                 | https://leetcode.com/problems/subsets-ii/                                                 |
+| 91        | Decode Ways                                                | https://leetcode.com/problems/decode-ways/                                                |
+| 92        | Reverse Linked List II                                     | https://leetcode.com/problems/reverse-linked-list-ii/                                     |
+| 93        | Restore IP Addresses                                       | https://leetcode.com/problems/restore-ip-addresses/                                       |
+| 95        | Unique Binary Search Trees II                              | https://leetcode.com/problems/unique-binary-search-trees-ii/                              |
+| 96        | Unique Binary Search Trees                                 | https://leetcode.com/problems/unique-binary-search-trees   /                              |
+| 97        | Interleaving String                                        | https://leetcode.com/problems/interleaving-string/                                        |
+| 98        | Validate Binary Search Tree                                | https://leetcode.com/problems/validate-binary-search-tree/                                |
+| 102       | Binary Tree Level Order Traversal                          | https://leetcode.com/problems/binary-tree-level-order-traversal/                          |
+| 103       | Binary Tree Zigzag Level Order Traversal                   | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/                   |
+| 105       | Construct Binary Tree from Preorder and Inorder Traversal  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/  |
+| 106       | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ |
+| 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
+| 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
+| 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
+| 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
+| 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
+| 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |
+| 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
+| 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
 
 ### Hard problem
 | # Problem | Description                                     | Leetcode Link                                                                  |

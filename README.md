@@ -131,11 +131,14 @@
 | 109       | Convert Sorted List to Binary Search Tree                  | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/                  |
 | 113       | Path Sum II                                                | https://leetcode.com/problems/path-sum-ii/                                                |
 | 114       | Flatten Binary Tree to Linked List                         | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/                         |
+| 116       | Populating Next Right Pointers in Each Node                | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/                |
+| 117       | Populating Next Right Pointers in Each Node II             | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/             |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
+| 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
 | 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |

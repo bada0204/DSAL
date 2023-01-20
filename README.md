@@ -133,9 +133,11 @@
 | 114       | Flatten Binary Tree to Linked List                         | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/                         |
 | 116       | Populating Next Right Pointers in Each Node                | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/                |
 | 117       | Populating Next Right Pointers in Each Node II             | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/             |
+| 120       | Triangle                                                   | https://leetcode.com/problems/triangle/                                                   |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
+| 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |

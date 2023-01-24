@@ -62,6 +62,7 @@
 | 290       | Word Pattern			                     | https://leetcode.com/problems/word-pattern/                               |
 | 520       | Detect Capital			                 | https://leetcode.com/problems/detect-capital/                             |
 | 944       | Delete Columns to Make Sorted              | https://leetcode.com/problems/delete-columns-to-make-sorted/              |
+| 997       | Find the Town Judge                        | https://leetcode.com/problems/find-the-town-judge/                        |
 
 ### Medium problem
 | # Problem | Description                                                | Leetcode Link                                                                             |
@@ -139,6 +140,7 @@
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
+| 909       | Snakes and Ladders                                         | https://leetcode.com/problems/snakes-and-ladders/                                         |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |

@@ -149,6 +149,7 @@
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |
 | 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
 | 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
+| 2359      | Find Closest Node to Given Two Nodes                       | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/                       |
 
 ### Hard problem
 | # Problem | Description                                     | Leetcode Link                                                                  |

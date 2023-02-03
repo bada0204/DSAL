@@ -62,7 +62,10 @@
 | 290       | Word Pattern			                     | https://leetcode.com/problems/word-pattern/                               |
 | 520       | Detect Capital			                 | https://leetcode.com/problems/detect-capital/                             |
 | 944       | Delete Columns to Make Sorted              | https://leetcode.com/problems/delete-columns-to-make-sorted/              |
+| 953       | Verifying an Alien Dictionary              | https://leetcode.com/problems/verifying-an-alien-dictionary/              |
 | 997       | Find the Town Judge                        | https://leetcode.com/problems/find-the-town-judge/                        |
+| 1071      | Greatest Common Divisor of Strings         | https://leetcode.com/problems/greatest-common-divisor-of-strings/         |
+| 1137      | N-th Tribonacci Number                     | https://leetcode.com/problems/n-th-tribonacci-number/                     |
 
 ### Medium problem
 | # Problem | Description                                                | Leetcode Link                                                                             |
@@ -140,6 +143,7 @@
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
+| 787       | Cheapest Flights Within K Stops                            | https://leetcode.com/problems/cheapest-flights-within-k-stops/                            |
 | 909       | Snakes and Ladders                                         | https://leetcode.com/problems/snakes-and-ladders/                                         |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
@@ -147,6 +151,7 @@
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
 | 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |
+| 1626      | Best Team With No Conflicts                                | https://leetcode.com/problems/best-team-with-no-conflicts/                                |
 | 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
 | 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
 | 2359      | Find Closest Node to Given Two Nodes                       | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/                       |
@@ -157,6 +162,7 @@
 | 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
 | 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
+| 2421      | Number of Good Paths                            | https://leetcode.com/problems/number-of-good-paths/                            |
 
 
 (*): still working

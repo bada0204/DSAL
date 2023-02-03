@@ -3,9 +3,18 @@ package ds;
 public class UnionFind {
 
     private int[] nodes;
+    private int n;
 
     public UnionFind(int n) {
+        this.n = n;
         this.nodes = new int[n];
+        this.init();
+    }
+
+    private void init() {
+        for(int i = 0; i < this.n; i++) {
+            this.nodes[i] = i;
+        }
     }
 
     public int find(int x) {

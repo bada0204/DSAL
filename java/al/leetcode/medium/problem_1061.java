@@ -30,47 +30,22 @@
 
 package al.leetcode.medium;
 
+import ds.UnionFind;
+
 public class problem_1061 {
 
     public String solution(String s1, String s2, String baseStr) {
-        int[] charGraph = new int[26];
-
-        for (int i = 0; i < charGraph.length; i++) {
-            charGraph[i] = i;
-        }
+        UnionFind uf = new UnionFind(26);
 
         for (int i = 0; i < s1.length(); i++) {
-            saveToCharGraph(charGraph, s1.charAt(i) - 'a', s2.charAt(i) - 'a');
+            uf.union(s1.charAt(i) - 'a', s2.charAt(i) - 'a');
         }
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < baseStr.length(); i++) {
-            char c = (char) ('a' + find(charGraph, baseStr.charAt(i) - 'a'));
+            char c = (char) ('a' + uf.find(baseStr.charAt(i) - 'a'));
             result.append(c);
         }
         return result.toString();
-    }
-
-    public int find(int[] charGraph, int c) {
-        if (charGraph[c] == c) {
-            return c;
-        }
-        charGraph[c] = find(charGraph, charGraph[c]);
-        return charGraph[c];
-    }
-
-    public void saveToCharGraph(int[] charGraph, int c1, int c2) {
-        c1 = find(charGraph, c1);
-        c2 = find(charGraph, c2);
-
-        if (c1 == c2) {
-            return;
-        }
-
-        if (c1 < c2) {
-            charGraph[c2] = c1;
-        } else {
-            charGraph[c1] = c2;
-        }
     }
     
 }

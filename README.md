@@ -143,6 +143,7 @@
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
+| 567       | Permutation in String                                      | https://leetcode.com/problems/permutation-in-string/                                      |
 | 787       | Cheapest Flights Within K Stops                            | https://leetcode.com/problems/cheapest-flights-within-k-stops/                            |
 | 909       | Snakes and Ladders                                         | https://leetcode.com/problems/snakes-and-ladders/                                         |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |

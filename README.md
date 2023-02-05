@@ -141,6 +141,7 @@
 | 131       | Palindrome Partitioning                                    | https://leetcode.com/problems/palindrome-partitioning/                                    |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
+| 438       | Find All Anagrams in a String                              | https://leetcode.com/problems/find-all-anagrams-in-a-string/                              |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
 | 567       | Permutation in String                                      | https://leetcode.com/problems/permutation-in-string/                                      |

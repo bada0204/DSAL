@@ -66,6 +66,7 @@
 | 997       | Find the Town Judge                        | https://leetcode.com/problems/find-the-town-judge/                        |
 | 1071      | Greatest Common Divisor of Strings         | https://leetcode.com/problems/greatest-common-divisor-of-strings/         |
 | 1137      | N-th Tribonacci Number                     | https://leetcode.com/problems/n-th-tribonacci-number/                     |
+| 1470      | Shuffle the Array                          | https://leetcode.com/problems/shuffle-the-array/                          |
 
 ### Medium problem
 | # Problem | Description                                                | Leetcode Link                                                                             |
@@ -146,6 +147,7 @@
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
 | 567       | Permutation in String                                      | https://leetcode.com/problems/permutation-in-string/                                      |
 | 787       | Cheapest Flights Within K Stops                            | https://leetcode.com/problems/cheapest-flights-within-k-stops/                            |
+| 904       | Fruit Into Baskets                                         | https://leetcode.com/problems/fruit-into-baskets/                                         |
 | 909       | Snakes and Ladders                                         | https://leetcode.com/problems/snakes-and-ladders/                                         |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |

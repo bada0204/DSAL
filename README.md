@@ -153,6 +153,7 @@
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
+| 1162      | As Far from Land as Possible                               | https://leetcode.com/problems/as-far-from-land-as-possible/                               |
 | 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |
 | 1626      | Best Team With No Conflicts                                | https://leetcode.com/problems/best-team-with-no-conflicts/                                |
@@ -165,7 +166,9 @@
 |-----------|-------------------------------------------------|--------------------------------------------------------------------------------|
 | 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
 | 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
+| 472       | Concatenated Words                              | https://leetcode.com/problems/concatenated-words/                              |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
+| 2306      | Naming a Company                                | https://leetcode.com/problems/naming-a-company/                                |
 | 2421      | Number of Good Paths                            | https://leetcode.com/problems/number-of-good-paths/                            |
 
 

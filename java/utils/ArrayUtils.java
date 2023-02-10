@@ -25,4 +25,8 @@ public class ArrayUtils {
         }
     }
 
+    public static boolean inRange(int[] move, int min, int max) {
+        return min <= move[0] && move[0] < max && min <= move[1] && move[1] < max;
+    }
+
 }

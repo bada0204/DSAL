@@ -153,6 +153,7 @@
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
+| 1129      | Shortest Path with Alternating Colors                      | https://leetcode.com/problems/shortest-path-with-alternating-colors/                      |
 | 1162      | As Far from Land as Possible                               | https://leetcode.com/problems/as-far-from-land-as-possible/                               |
 | 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |

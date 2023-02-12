@@ -161,6 +161,7 @@
 | 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
 | 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
 | 2359      | Find Closest Node to Given Two Nodes                       | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/                       |
+| 2477      | Minimum Fuel Cost to Report to the Capital                 | https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/                 |
 
 ### Hard problem
 | # Problem | Description                                     | Leetcode Link                                                                  |

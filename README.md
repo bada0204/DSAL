@@ -67,6 +67,7 @@
 | 1071      | Greatest Common Divisor of Strings         | https://leetcode.com/problems/greatest-common-divisor-of-strings/         |
 | 1137      | N-th Tribonacci Number                     | https://leetcode.com/problems/n-th-tribonacci-number/                     |
 | 1470      | Shuffle the Array                          | https://leetcode.com/problems/shuffle-the-array/                          |
+| 1523      | Count Odd Numbers in an Interval Range     | https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/     |
 
 ### Medium problem
 | # Problem | Description                                                | Leetcode Link                                                                             |

@@ -63,6 +63,7 @@
 | 520       | Detect Capital			                 | https://leetcode.com/problems/detect-capital/                             |
 | 944       | Delete Columns to Make Sorted              | https://leetcode.com/problems/delete-columns-to-make-sorted/              |
 | 953       | Verifying an Alien Dictionary              | https://leetcode.com/problems/verifying-an-alien-dictionary/              |
+| 989       | Add to Array-Form of Integer               | https://leetcode.com/problems/add-to-array-form-of-integer/               |
 | 997       | Find the Town Judge                        | https://leetcode.com/problems/find-the-town-judge/                        |
 | 1071      | Greatest Common Divisor of Strings         | https://leetcode.com/problems/greatest-common-divisor-of-strings/         |
 | 1137      | N-th Tribonacci Number                     | https://leetcode.com/problems/n-th-tribonacci-number/                     |
@@ -169,6 +170,7 @@
 |-----------|-------------------------------------------------|--------------------------------------------------------------------------------|
 | 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
 | 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
+| 352       | Data Stream as Disjoint Intervals               | https://leetcode.com/problems/data-stream-as-disjoint-intervals/               |
 | 472       | Concatenated Words                              | https://leetcode.com/problems/concatenated-words/                              |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
 | 2306      | Naming a Company                                | https://leetcode.com/problems/naming-a-company/                                |

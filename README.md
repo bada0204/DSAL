@@ -171,6 +171,7 @@
 | 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
 | 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
 | 352       | Data Stream as Disjoint Intervals               | https://leetcode.com/problems/data-stream-as-disjoint-intervals/               |
+| 460       | LFU Cache                                       | https://leetcode.com/problems/lfu-cache/                                       |
 | 472       | Concatenated Words                              | https://leetcode.com/problems/concatenated-words/                              |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
 | 2306      | Naming a Company                                | https://leetcode.com/problems/naming-a-company/                                |

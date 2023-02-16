@@ -142,6 +142,7 @@
 | 117       | Populating Next Right Pointers in Each Node II             | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/             |
 | 120       | Triangle                                                   | https://leetcode.com/problems/triangle/                                                   |
 | 122       | Best Time to Buy and Sell Stock II                         | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/                         |
+| 128       | Longest Consecutive Sequence                               | https://leetcode.com/problems/longest-consecutive-sequence/                               |
 | 131       | Palindrome Partitioning                                    | https://leetcode.com/problems/palindrome-partitioning/                                    |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |

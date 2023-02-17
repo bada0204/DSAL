@@ -61,6 +61,7 @@
 | 234       | Palindrome Linked List                     | https://leetcode.com/problems/palindrome-linked-list/                     |
 | 290       | Word Pattern			                     | https://leetcode.com/problems/word-pattern/                               |
 | 520       | Detect Capital			                 | https://leetcode.com/problems/detect-capital/                             |
+| 783       | Minimum Distance Between BST Nodes         | https://leetcode.com/problems/minimum-distance-between-bst-nodes/         |
 | 944       | Delete Columns to Make Sorted              | https://leetcode.com/problems/delete-columns-to-make-sorted/              |
 | 953       | Verifying an Alien Dictionary              | https://leetcode.com/problems/verifying-an-alien-dictionary/              |
 | 989       | Add to Array-Form of Integer               | https://leetcode.com/problems/add-to-array-form-of-integer/               |
@@ -143,6 +144,7 @@
 | 120       | Triangle                                                   | https://leetcode.com/problems/triangle/                                                   |
 | 122       | Best Time to Buy and Sell Stock II                         | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/                         |
 | 128       | Longest Consecutive Sequence                               | https://leetcode.com/problems/longest-consecutive-sequence/                               |
+| 129       | Sum Root to Leaf Numbers                                   | https://leetcode.com/problems/sum-root-to-leaf-numbers/                                   |
 | 131       | Palindrome Partitioning                                    | https://leetcode.com/problems/palindrome-partitioning/                                    |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |

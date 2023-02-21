@@ -147,11 +147,13 @@
 | 129       | Sum Root to Leaf Numbers                                   | https://leetcode.com/problems/sum-root-to-leaf-numbers/                                   |
 | 130       | Surrounded Regions                                         | https://leetcode.com/problems/surrounded-regions/                                         |
 | 131       | Palindrome Partitioning                                    | https://leetcode.com/problems/palindrome-partitioning/                                    |
+| 133       | Clone Graph                                                | https://leetcode.com/problems/clone-graph/                                                |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 438       | Find All Anagrams in a String                              | https://leetcode.com/problems/find-all-anagrams-in-a-string/                              |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
+| 540       | Single Element in a Sorted Array                           | https://leetcode.com/problems/single-element-in-a-sorted-array/                           |
 | 567       | Permutation in String                                      | https://leetcode.com/problems/permutation-in-string/                                      |
 | 787       | Cheapest Flights Within K Stops                            | https://leetcode.com/problems/cheapest-flights-within-k-stops/                            |
 | 904       | Fruit Into Baskets                                         | https://leetcode.com/problems/fruit-into-baskets/                                         |

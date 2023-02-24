@@ -123,6 +123,7 @@
 | 81        | Search in Rotated Sorted Array II                          | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                          |
 | 82        | Remove Duplicates from Sorted List II                      | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/                      |
 | 86        | Partition List                                             | https://leetcode.com/problems/partition-list/                                             |
+| 89        | Gray Code                                                  | https://leetcode.com/problems/gray-code/                                                  |
 | 90        | Subsets II                                                 | https://leetcode.com/problems/subsets-ii/                                                 |
 | 91        | Decode Ways                                                | https://leetcode.com/problems/decode-ways/                                                |
 | 92        | Reverse Linked List II                                     | https://leetcode.com/problems/reverse-linked-list-ii/                                     |
@@ -131,6 +132,7 @@
 | 96        | Unique Binary Search Trees                                 | https://leetcode.com/problems/unique-binary-search-trees   /                              |
 | 97        | Interleaving String                                        | https://leetcode.com/problems/interleaving-string/                                        |
 | 98        | Validate Binary Search Tree                                | https://leetcode.com/problems/validate-binary-search-tree/                                |
+| 99        | Recover Binary Search Tree                                 | https://leetcode.com/problems/recover-binary-search-tree/                                 |
 | 102       | Binary Tree Level Order Traversal                          | https://leetcode.com/problems/binary-tree-level-order-traversal/                          |
 | 103       | Binary Tree Zigzag Level Order Traversal                   | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/                   |
 | 105       | Construct Binary Tree from Preorder and Inorder Traversal  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/  |
@@ -161,6 +163,7 @@
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |
+| 1011      | Capacity To Ship Packages Within D Days                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/                    |
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
 | 1129      | Shortest Path with Alternating Colors                      | https://leetcode.com/problems/shortest-path-with-alternating-colors/                      |
 | 1162      | As Far from Land as Possible                               | https://leetcode.com/problems/as-far-from-land-as-possible/                               |
@@ -180,6 +183,8 @@
 | 352       | Data Stream as Disjoint Intervals               | https://leetcode.com/problems/data-stream-as-disjoint-intervals/               |
 | 460       | LFU Cache                                       | https://leetcode.com/problems/lfu-cache/                                       |
 | 472       | Concatenated Words                              | https://leetcode.com/problems/concatenated-words/                              |
+| 502       | IPO                                             | https://leetcode.com/problems/ipo/                                             |
+| 1675      | Minimize Deviation in Array                     | https://leetcode.com/problems/minimize-deviation-in-array/                     |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
 | 2306      | Naming a Company                                | https://leetcode.com/problems/naming-a-company/                                |
 | 2421      | Number of Good Paths                            | https://leetcode.com/problems/number-of-good-paths/                            |

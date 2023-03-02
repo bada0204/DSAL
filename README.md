@@ -151,15 +151,25 @@
 | 131       | Palindrome Partitioning                                    | https://leetcode.com/problems/palindrome-partitioning/                                    |
 | 133       | Clone Graph                                                | https://leetcode.com/problems/clone-graph/                                                |
 | 134       | Gas Station                                                | https://leetcode.com/problems/gas-station/                                                |
+| 138       | Copy List with Random Pointer                              | https://leetcode.com/problems/copy-list-with-random-pointer/                              |
+| 139       | Word Break                                                 | https://leetcode.com/problems/word-break/                                                 |
+| 142       | Linked List Cycle II                                       | https://leetcode.com/problems/linked-list-cycle-ii/                                       |
+| 143       | Reorder List                                               | https://leetcode.com/problems/reorder-list/                                               |
+| 146       | LRU Cache                                                  | https://leetcode.com/problems/lru-cache/                                                  |
+| 147       | Insertion Sort List                                        | https://leetcode.com/problems/insertion-sort-list/                                        |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
+| 427       | Construct Quad Tree                                        | https://leetcode.com/problems/construct-quad-tree/                                        |
 | 438       | Find All Anagrams in a String                              | https://leetcode.com/problems/find-all-anagrams-in-a-string/                              |
+| 443       | String Compression                                         | https://leetcode.com/problems/string-compression/                                         |
 | 452       | Minimum Number of Arrows to Burst Balloons                 | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/                 |
 | 491       | Non-decreasing Subsequences                                | https://leetcode.com/problems/non-decreasing-subsequences/                                |
 | 540       | Single Element in a Sorted Array                           | https://leetcode.com/problems/single-element-in-a-sorted-array/                           |
 | 567       | Permutation in String                                      | https://leetcode.com/problems/permutation-in-string/                                      |
+| 652       | Find Duplicate Subtrees                                    | https://leetcode.com/problems/find-duplicate-subtrees/                                    |
 | 787       | Cheapest Flights Within K Stops                            | https://leetcode.com/problems/cheapest-flights-within-k-stops/                            |
 | 904       | Fruit Into Baskets                                         | https://leetcode.com/problems/fruit-into-baskets/                                         |
 | 909       | Snakes and Ladders                                         | https://leetcode.com/problems/snakes-and-ladders/                                         |
+| 912       | Sort an Array                                              | https://leetcode.com/problems/sort-an-array/                                              |
 | 918       | Maximum Sum Circular Subarray                              | https://leetcode.com/problems/maximum-sum-circular-subarray/                              |
 | 926       | Flip String to Monotone Increasing                         | https://leetcode.com/problems/flip-string-to-monotone-increasing/                         |
 | 974       | Subarray Sums Divisible by K                               | https://leetcode.com/problems/subarray-sums-divisible-by-k/                               |
@@ -179,6 +189,7 @@
 | # Problem | Description                                     | Leetcode Link                                                                  |
 |-----------|-------------------------------------------------|--------------------------------------------------------------------------------|
 | 4         | Median of Two Sorted Arrays                     | https://leetcode.com/problems/median-of-two-sorted-arrays/                     |
+| 72        | Edit Distance                                   | https://leetcode.com/problems/edit-distance/                                   |
 | 149       | Max Points on a Line                            | https://leetcode.com/problems/max-points-on-a-line/                            |
 | 352       | Data Stream as Disjoint Intervals               | https://leetcode.com/problems/data-stream-as-disjoint-intervals/               |
 | 460       | LFU Cache                                       | https://leetcode.com/problems/lfu-cache/                                       |

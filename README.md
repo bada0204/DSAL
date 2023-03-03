@@ -157,6 +157,8 @@
 | 143       | Reorder List                                               | https://leetcode.com/problems/reorder-list/                                               |
 | 146       | LRU Cache                                                  | https://leetcode.com/problems/lru-cache/                                                  |
 | 147       | Insertion Sort List                                        | https://leetcode.com/problems/insertion-sort-list/                                        |
+| 148       | Sort List                                                  | https://leetcode.com/problems/sort-list/                                                  |
+| 150       | Evaluate Reverse Polish Notation                           | https://leetcode.com/problems/evaluate-reverse-polish-notation/                           |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 427       | Construct Quad Tree                                        | https://leetcode.com/problems/construct-quad-tree/                                        |
 | 438       | Find All Anagrams in a String                              | https://leetcode.com/problems/find-all-anagrams-in-a-string/                              |

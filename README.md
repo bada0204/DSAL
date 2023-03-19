@@ -163,6 +163,7 @@
 | 150       | Evaluate Reverse Polish Notation                           | https://leetcode.com/problems/evaluate-reverse-polish-notation/                           |
 | 151       | Reverse Words in a String                                  | https://leetcode.com/problems/reverse-words-in-a-string/                                  |
 | 208       | Implement Trie (Prefix Tree)                               | https://leetcode.com/problems/implement-trie-prefix-tree/                                 |
+| 211       | Design Add and Search Words Data Structure                 | https://leetcode.com/problems/design-add-and-search-words-data-structure                  |
 | 382       | Linked List Random Node                                    | https://leetcode.com/problems/linked-list-random-node/                                    |
 | 427       | Construct Quad Tree                                        | https://leetcode.com/problems/construct-quad-tree/                                        |
 | 438       | Find All Anagrams in a String                              | https://leetcode.com/problems/find-all-anagrams-in-a-string/                              |

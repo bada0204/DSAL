@@ -12,40 +12,42 @@
 
 package al.leetcode.medium;
 
-import java.util.ArrayList;
-import java.util.List;
+import ds.DoubleListNode;
 
 public class problem_1472 {
 
-    private List<String> histories;
-    private int cursor;
-    private int end;
+    private DoubleListNode histories;
 
     public problem_1472(String homepage) {
-        this.histories = new ArrayList<String>();
-        this.histories.add(homepage);
-        this.cursor = 0;
-        this.end = 1;
+        this.histories = new DoubleListNode(homepage);
     }
     
     public void visit(String url) {
-        this.end = this.cursor + 1;
-        if (this.end == this.histories.size()) {
-            this.histories.add(this.end++, url);
-        } else {
-            this.histories.set(this.end++, url);
+        DoubleListNode forward = this.histories.getNext();
+        if (forward != null) {
+            this.histories.setNext(null);
+            forward.setPrev(null);
         }
-        this.cursor++;
+        forward = new DoubleListNode(url);
+        this.histories.setNext(forward);;
+        forward.setPrev(this.histories);
+        this.histories = forward;
     }
     
     public String back(int steps) {
-        this.cursor = Math.max(0, this.cursor - steps);
-        return this.histories.get(this.cursor);
+        while (steps > 0 && this.histories.getPrev() != null) {
+            this.histories = this.histories.getPrev();
+            steps--;
+        }
+        return this.histories.getValue();
     }
     
     public String forward(int steps) {
-        this.cursor = Math.min(this.end - 1, this.cursor + steps);
-        return this.histories.get(this.cursor);
+        while (steps > 0 && this.histories.getNext() != null) {
+            this.histories = this.histories.getNext();
+            steps--;
+        }
+        return this.histories.getValue();
     }
     
 }

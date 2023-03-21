@@ -62,6 +62,7 @@
 | 234       | Palindrome Linked List                             | https://leetcode.com/problems/palindrome-linked-list/                             |
 | 290       | Word Pattern			                             | https://leetcode.com/problems/word-pattern/                                       |
 | 520       | Detect Capital			                         | https://leetcode.com/problems/detect-capital/                                     |
+| 605       | Can Place Flowers			                         | https://leetcode.com/problems/can-place-flowers/                                  |
 | 783       | Minimum Distance Between BST Nodes                 | https://leetcode.com/problems/minimum-distance-between-bst-nodes/                 |
 | 944       | Delete Columns to Make Sorted                      | https://leetcode.com/problems/delete-columns-to-make-sorted/                      |
 | 953       | Verifying an Alien Dictionary                      | https://leetcode.com/problems/verifying-an-alien-dictionary/                      |
@@ -193,6 +194,7 @@
 | 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
 | 2187      | Minimum Time to Complete Trips                             | https://leetcode.com/problems/minimum-time-to-complete-trips/                             |
 | 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
+| 2348      | Number of Zero-Filled Subarrays                            | https://leetcode.com/problems/number-of-zero-filled-subarrays/                            |
 | 2359      | Find Closest Node to Given Two Nodes                       | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/                       |
 | 2477      | Minimum Fuel Cost to Report to the Capital                 | https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/                 |
 

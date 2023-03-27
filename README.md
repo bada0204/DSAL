@@ -187,6 +187,8 @@
 | 1061      | Lexicographically Smallest Equivalent String               | https://leetcode.com/problems/lexicographically-smallest-equivalent-string/               |
 | 1129      | Shortest Path with Alternating Colors                      | https://leetcode.com/problems/shortest-path-with-alternating-colors/                      |
 | 1162      | As Far from Land as Possible                               | https://leetcode.com/problems/as-far-from-land-as-possible/                               |
+| 1319      | Number of Operations to Make Network Connected             | https://leetcode.com/problems/number-of-operations-to-make-network-connected/             |
+| 1466      | Reorder Routes to Make All Paths Lead to the City Zero     | https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/     |
 | 1443      | Minimum Time to Collect All Apples in a Tree               | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/               |
 | 1472      | Design Browser History                                     | https://leetcode.com/problems/design-browser-history/                                     |
 | 1519      | Number of Nodes in the Sub-Tree With the Same Label        | https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/        |
@@ -194,9 +196,11 @@
 | 1833      | Maximum Ice Cream Bars                                     | https://leetcode.com/problems/maximum-ice-cream-bars/                                     |
 | 2187      | Minimum Time to Complete Trips                             | https://leetcode.com/problems/minimum-time-to-complete-trips/                             |
 | 2244      | Minimum Rounds to Complete All Tasks                       | https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/                       |
+| 2316      | Count Unreachable Pairs of Nodes in an Undirected Graph    | https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/    |
 | 2348      | Number of Zero-Filled Subarrays                            | https://leetcode.com/problems/number-of-zero-filled-subarrays/                            |
 | 2359      | Find Closest Node to Given Two Nodes                       | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/                       |
 | 2477      | Minimum Fuel Cost to Report to the Capital                 | https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/                 |
+| 2492      | Minimum Score of a Path Between Two Cities                 | https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/                 |
 
 ### Hard problem
 | # Problem | Description                                     | Leetcode Link                                                                  |
@@ -212,6 +216,7 @@
 | 1675      | Minimize Deviation in Array                     | https://leetcode.com/problems/minimize-deviation-in-array/                     |
 | 2246      | Longest Path With Different Adjacent Characters | https://leetcode.com/problems/longest-path-with-different-adjacent-characters/ |
 | 2306      | Naming a Company                                | https://leetcode.com/problems/naming-a-company/                                |
+| 2360      | Longest Cycle in a Graph                        | https://leetcode.com/problems/longest-cycle-in-a-graph/                        |
 | 2421      | Number of Good Paths                            | https://leetcode.com/problems/number-of-good-paths/                            |
 | 2444      | Count Subarrays With Fixed Bounds               | https://leetcode.com/problems/count-subarrays-with-fixed-bounds/               |
 
